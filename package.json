@@ -56,7 +56,7 @@
     ]
   },
   "dependencies": {
-    "date-holidays-parser": "^1.2.0",
+    "date-holidays-parser": "git+https://github.com/petrjaros/date-holidays-parser.git",
     "js-yaml": "^3.10.0",
     "lodash.omit": "^4.5.0",
     "lodash.pick": "^4.4.0",
